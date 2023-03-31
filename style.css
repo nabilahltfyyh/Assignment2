@@ -1,0 +1,24 @@
+section {
+  padding-top: 3rem;
+}
+body {
+  padding: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.form {
+  padding-top: 1rem;
+}
+.myName {
+  font-weight: bold;
+}
+.card-text-1 {
+  font-weight: bold;
+}
+
+/* @media (max-width = 400px) {
+}
+@media (min-width = 321px) {
+} */
